@@ -1,0 +1,24 @@
+.App-nav{
+    background-color:whitesmoke;
+    margin: 0;
+    padding: 0;
+}
+
+.Nav-space{
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+}
+
+.nav-menu{
+    font-size: 1.2em;
+    text-align: center;
+    width: 25%;
+}
+
+.nav-menu:hover{
+    
+    color:chocolate;
+    cursor: pointer;
+}
