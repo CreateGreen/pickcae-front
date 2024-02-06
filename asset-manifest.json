@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pickcae-front/static/css/main.e5b934ac.css",
+    "main.js": "/pickcae-front/static/js/main.c093ddf6.js",
+    "static/js/592.2ec29bb0.chunk.js": "/pickcae-front/static/js/592.2ec29bb0.chunk.js",
+    "index.html": "/pickcae-front/index.html",
+    "main.e5b934ac.css.map": "/pickcae-front/static/css/main.e5b934ac.css.map",
+    "main.c093ddf6.js.map": "/pickcae-front/static/js/main.c093ddf6.js.map",
+    "592.2ec29bb0.chunk.js.map": "/pickcae-front/static/js/592.2ec29bb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5b934ac.css",
+    "static/js/main.c093ddf6.js"
+  ]
+}
